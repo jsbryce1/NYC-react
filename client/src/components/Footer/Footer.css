@@ -1,0 +1,16 @@
+.footer {
+    background-color: #22dbc3 !important;
+    margin-top: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-top:  solid rgb(12, 12, 11);
+    color: black !important;
+}
+
+.footer-heading {
+    font-size: 24px;
+}
+
+.footer-button {
+    color: #080708 !important;
+}

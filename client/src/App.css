@@ -1,0 +1,13 @@
+  /*Sticky footer*/
+  .Site {
+    /* display: flex; */
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  .main-content-section {
+    flex: 1;
+    min-height: 65vh;
+  }
+
+  

@@ -1,0 +1,12 @@
+/*https://coolors.co/080708-3772ff-df2935-fdca40-e6e8e6*/
+.jumbotron  {
+    background-image :url("https://upload.wikimedia.org/wikipedia/commons/1/17/Headline_of_the_New_York_Times_June-29-1914.jpg") !important;
+    color: #22bfdb !important;
+    text-shadow: 4px 4px 12px #050505;
+    border-bottom: solid rgb(7, 7, 6);
+}
+
+.button {
+    background-color: #22dbc3 !important;
+    color: black;
+}
